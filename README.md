@@ -1,1 +1,1 @@
-#Redux demo
+#Redux demo from Stephen Grider's Udemy course
